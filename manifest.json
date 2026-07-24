@@ -1,6 +1,6 @@
 {
-  "name": "Respring",
-  "short_name": "Respring",
+  "name": "Snapchat",
+  "short_name": "Snapchat",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
